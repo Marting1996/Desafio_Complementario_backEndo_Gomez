@@ -1,0 +1,770 @@
+fatal: GET on / - 13:53:55
+fatal: GET on /favicon.ico - 13:53:55
+fatal: GET on /loggetTest/test - 13:54:08
+fatal: GET on /loggetTest/test - 13:54:30
+fatal: GET on /loggerTest/test - 13:54:57
+fatal: Test de error fatal
+error: Test de error 'error'
+warning: Test de error 'warning'
+info: Test de error 'info'
+info: Solo es un test
+info: Solo es un test
+info: Solo es un test
+info: Solo es un test
+{"level":"info","message":"Solo es un test","timestamp":"2023-10-16T17:08:08.194Z"}
+{"level":"info","message":"Solo es un test"}
+{"level":"info","message":"Solo es un test","timestamp":"2023-10-16T17:09:28.029Z"}
+{"level":"fatal","message":"GET on /loggerTest/test - 16:10:10","timestamp":"2023-10-16T19:10:10.336Z"}
+{"level":"fatal","message":"Test de error fatal","timestamp":"2023-10-16T19:10:10.339Z"}
+{"level":"error","message":"Test de error 'error'","timestamp":"2023-10-16T19:10:10.340Z"}
+{"level":"warning","message":"Test de error 'warning'","timestamp":"2023-10-16T19:10:10.340Z"}
+{"level":"info","message":"Test de error 'info'","timestamp":"2023-10-16T19:10:10.340Z"}
+{"level":"fatal","message":"GET on /loggerTest/test - 16:10:15","timestamp":"2023-10-16T19:10:15.351Z"}
+{"level":"fatal","message":"Test de error fatal","timestamp":"2023-10-16T19:10:15.352Z"}
+{"level":"error","message":"Test de error 'error'","timestamp":"2023-10-16T19:10:15.353Z"}
+{"level":"warning","message":"Test de error 'warning'","timestamp":"2023-10-16T19:10:15.353Z"}
+{"level":"info","message":"Test de error 'info'","timestamp":"2023-10-16T19:10:15.353Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:31:46.635Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:32:50.973Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:33:25.314Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:34:06.774Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:34:31.135Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-19T22:49:25.106Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-19T22:49:27.763Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-19T22:49:29.293Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-19T23:16:26.118Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-19T23:16:27.655Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-20T17:55:25.071Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-20T18:07:06.498Z"}
+{"level":"fatal","message":"GET on / - 15:07:08","timestamp":"2023-10-20T18:07:08.749Z"}
+{"level":"fatal","message":"GET on /favicon.ico - 15:07:09","timestamp":"2023-10-20T18:07:09.650Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 15:07:45","timestamp":"2023-10-20T18:07:45.888Z"}
+{"level":"fatal","message":"POST on /request-password-reset - 15:08:00","timestamp":"2023-10-20T18:08:00.588Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:19:13.597Z"}
+{"level":"fatal","message":"GET on / - 17:19:14","timestamp":"2023-10-24T20:19:14.963Z"}
+{"level":"fatal","message":"GET on /favicon.ico - 17:19:15","timestamp":"2023-10-24T20:19:15.367Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:20:51","timestamp":"2023-10-24T20:20:51.537Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:22:32","timestamp":"2023-10-24T20:22:32.760Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:23:01.839Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:23:09","timestamp":"2023-10-24T20:23:09.275Z"}
+{"level":"fatal","message":"GET on /api/current/register - 17:23:28","timestamp":"2023-10-24T20:23:28.053Z"}
+{"level":"fatal","message":"POST on /api/current/register - 17:23:45","timestamp":"2023-10-24T20:23:45.890Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:23:46","timestamp":"2023-10-24T20:23:46.111Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:25:40.232Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:25:43","timestamp":"2023-10-24T20:25:43.544Z"}
+{"level":"fatal","message":"GET on /api/current/register - 17:25:52","timestamp":"2023-10-24T20:25:52.440Z"}
+{"level":"fatal","message":"POST on /api/current/register - 17:26:07","timestamp":"2023-10-24T20:26:07.156Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:26:07","timestamp":"2023-10-24T20:26:07.366Z"}
+{"level":"fatal","message":"POST on /api/current/login - 17:26:38","timestamp":"2023-10-24T20:26:38.463Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:26:38","timestamp":"2023-10-24T20:26:38.570Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 17:27:02","timestamp":"2023-10-24T20:27:02.163Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:27:02","timestamp":"2023-10-24T20:27:02.168Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:27:08","timestamp":"2023-10-24T20:27:08.218Z"}
+{"level":"fatal","message":"POST on /forgot-pass - 17:27:11","timestamp":"2023-10-24T20:27:11.581Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:29:47.231Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:30:05","timestamp":"2023-10-24T20:30:05.573Z"}
+{"level":"fatal","message":"POST on /forgot-pass - 17:30:07","timestamp":"2023-10-24T20:30:07.903Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:30:46","timestamp":"2023-10-24T20:30:46.147Z"}
+{"level":"fatal","message":"POST on /resetPass/resetPass/forgot-pass - 17:30:47","timestamp":"2023-10-24T20:30:47.887Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:31:07","timestamp":"2023-10-24T20:31:07.243Z"}
+{"level":"fatal","message":"POST on /resetPass/resetPass/forgot-pass - 17:31:09","timestamp":"2023-10-24T20:31:09.585Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:31:15","timestamp":"2023-10-24T20:31:15.983Z"}
+{"level":"fatal","message":"POST on /forgot-pass - 17:31:17","timestamp":"2023-10-24T20:31:17.940Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:36:05","timestamp":"2023-10-24T20:36:05.372Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:36:23","timestamp":"2023-10-24T20:36:23.198Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 17:36:27","timestamp":"2023-10-24T20:36:27.280Z"}
+{"level":"fatal","message":"GET on /reset-pass/86d4366f21965e8d2b83d4c5eaea167ba9dfec414658710bbfdc4edf00996d14 - 17:36:49","timestamp":"2023-10-24T20:36:49.463Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:37:42.594Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/86d4366f21965e8d2b83d4c5eaea167ba9dfec414658710bbfdc4edf00996d14 - 17:37:59","timestamp":"2023-10-24T20:37:59.758Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:48:14.304Z"}
+{"level":"fatal","message":"GET on /api/current/register - 17:48:23","timestamp":"2023-10-24T20:48:23.370Z"}
+{"level":"fatal","message":"POST on /api/current/register - 17:48:30","timestamp":"2023-10-24T20:48:30.383Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:48:30","timestamp":"2023-10-24T20:48:30.612Z"}
+{"level":"fatal","message":"POST on /api/current/login - 17:48:47","timestamp":"2023-10-24T20:48:47.046Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:48:47","timestamp":"2023-10-24T20:48:47.155Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 17:51:12","timestamp":"2023-10-24T20:51:12.989Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:51:12","timestamp":"2023-10-24T20:51:12.994Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:51:17","timestamp":"2023-10-24T20:51:17.967Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 17:51:20","timestamp":"2023-10-24T20:51:20.770Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e1a6c93196dd8307fd4c94b42f14f5f94a315101fa3f370c8f2ed4dd73c5aa07 - 17:51:29","timestamp":"2023-10-24T20:51:29.460Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T20:58:43.281Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e1a6c93196dd8307fd4c94b42f14f5f94a315101fa3f370c8f2ed4dd73c5aa07 - 17:59:42","timestamp":"2023-10-24T20:59:42.339Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:01:38.114Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:01:45","timestamp":"2023-10-24T21:01:45.372Z"}
+{"level":"info","message":"db08228369d64a7bd8cefad634eb34530a313af73b98d696400ef755faf34ece","timestamp":"2023-10-24T21:01:45.377Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e1a6c93196dd8307fd4c94b42f14f5f94a315101fa3f370c8f2ed4dd73c5aa07 - 18:02:25","timestamp":"2023-10-24T21:02:25.252Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e1a6c93196dd8307fd4c94b42f14f5f94a315101fa3f370c8f2ed4dd73c5aa07 - 18:02:27","timestamp":"2023-10-24T21:02:27.512Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:03:46.738Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:03:50","timestamp":"2023-10-24T21:03:50.526Z"}
+{"level":"info","message":"c1e7e9b65f1d78145c96b16bd5251fb760ba1ebe381a4a5f081ffdda6f1c5c34","timestamp":"2023-10-24T21:03:50.530Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:04:44.951Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e1a6c93196dd8307fd4c94b42f14f5f94a315101fa3f370c8f2ed4dd73c5aa07 - 18:04:47","timestamp":"2023-10-24T21:04:47.560Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:05:19","timestamp":"2023-10-24T21:05:19.841Z"}
+{"level":"info","message":"5e34cc893d9d1633a16a9e2fcc6aac5498c7f737c5eb2cdbcc3611a4985b0a71","timestamp":"2023-10-24T21:05:19.844Z"}
+{"level":"info","message":"User:","timestamp":"2023-10-24T21:05:19.845Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:05:57.013Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:06:01","timestamp":"2023-10-24T21:06:01.300Z"}
+{"level":"info","message":"1c8cd17691402615d8216475c19f4ee136522291e82dcfccd794af02d53c2348","timestamp":"2023-10-24T21:06:01.305Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698185161305,"resetPassToken":"1c8cd17691402615d8216475c19f4ee136522291e82dcfccd794af02d53c2348","timestamp":"2023-10-24T21:06:01.306Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:06:48.117Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:06:51","timestamp":"2023-10-24T21:06:51.988Z"}
+{"level":"info","message":"23757fa714cbf30e0c0ff75f4494044b5efe6392fbc0058267298e9b2ea652ef","timestamp":"2023-10-24T21:06:51.992Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698185211992,"resetPassToken":"23757fa714cbf30e0c0ff75f4494044b5efe6392fbc0058267298e9b2ea652ef","timestamp":"2023-10-24T21:06:52.000Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:09:08.737Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:09:11","timestamp":"2023-10-24T21:09:12.002Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:09:12.005Z"}
+{"level":"info","message":"69b543c9be6f3c6e0dc0a435d69a7c19648a6027393f751173e68b813ab0796c","timestamp":"2023-10-24T21:09:12.007Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698185352007,"resetPassToken":"69b543c9be6f3c6e0dc0a435d69a7c19648a6027393f751173e68b813ab0796c","timestamp":"2023-10-24T21:09:12.014Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:09:41","timestamp":"2023-10-24T21:09:41.436Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:09:41.438Z"}
+{"level":"info","message":"263bbb0a2b281114eca1abe123d4e6657b96aa59504f82c626c7227b74314a60","timestamp":"2023-10-24T21:09:41.438Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698185381438,"resetPassToken":"263bbb0a2b281114eca1abe123d4e6657b96aa59504f82c626c7227b74314a60","timestamp":"2023-10-24T21:09:41.441Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:29:58.022Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:30:03","timestamp":"2023-10-24T21:30:03.457Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:30:03.461Z"}
+{"level":"info","message":"c03fa78b56736bbe176add90a89fc6b8d74ffd5dbc8d8324915d0a49cf994b15","timestamp":"2023-10-24T21:30:03.462Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698186603462,"resetPassToken":"c03fa78b56736bbe176add90a89fc6b8d74ffd5dbc8d8324915d0a49cf994b15","timestamp":"2023-10-24T21:30:03.515Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:31:11.279Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:31:14","timestamp":"2023-10-24T21:31:14.397Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:31:14.401Z"}
+{"level":"info","message":"d96eabfa8e327774caa402c64778d2739d9f61f84de79576494424a0c4eaf73a","timestamp":"2023-10-24T21:31:14.404Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698186674403,"resetPassToken":"d96eabfa8e327774caa402c64778d2739d9f61f84de79576494424a0c4eaf73a","timestamp":"2023-10-24T21:31:14.459Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:31:40","timestamp":"2023-10-24T21:31:40.762Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:31:40.765Z"}
+{"level":"info","message":"d27b114652524cd11489603259cd9f44734feadb7815272551f600e0bb6543aa","timestamp":"2023-10-24T21:31:40.766Z"}
+{"level":"info","message":"User:","resetPassExpiry":1698186700766,"resetPassToken":"d27b114652524cd11489603259cd9f44734feadb7815272551f600e0bb6543aa","timestamp":"2023-10-24T21:31:40.817Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:33:44.207Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:33:46","timestamp":"2023-10-24T21:33:46.670Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:33:46.673Z"}
+{"level":"info","message":"41dad1ae9373f5341b7ad32c2cd546d2787efc4168582ca5a2e22ebd56925896","timestamp":"2023-10-24T21:33:46.725Z"}
+{"__v":0,"_id":"65382d9e7dd011470668afaa","age":27,"cart":"65382d9e7dd011470668afab","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$z6ndR7mjKbj2ALCFbwobge4nEXr3x.c3CsOlWTWiGqtBvoWxzNu2S","resetPassExpiry":1698186826725,"resetPassToken":"41dad1ae9373f5341b7ad32c2cd546d2787efc4168582ca5a2e22ebd56925896","role":"user","timestamp":"2023-10-24T21:33:46.779Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/41dad1ae9373f5341b7ad32c2cd546d2787efc4168582ca5a2e22ebd56925896 - 18:34:27","timestamp":"2023-10-24T21:34:27.535Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:35:45.213Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:35:50","timestamp":"2023-10-24T21:35:50.850Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:35:50.853Z"}
+{"level":"info","message":"eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3","timestamp":"2023-10-24T21:35:50.906Z"}
+{"__v":0,"_id":"65382d9e7dd011470668afaa","age":27,"cart":"65382d9e7dd011470668afab","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$z6ndR7mjKbj2ALCFbwobge4nEXr3x.c3CsOlWTWiGqtBvoWxzNu2S","resetPassExpiry":1698186950906,"resetPassToken":"eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3","role":"user","timestamp":"2023-10-24T21:35:50.983Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:36:42.006Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:36:49","timestamp":"2023-10-24T21:36:49.264Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:37:43","timestamp":"2023-10-24T21:37:43.267Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:37:54.147Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:37:55","timestamp":"2023-10-24T21:37:55.567Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:40:18.111Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:40:21","timestamp":"2023-10-24T21:40:21.858Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:44:58.795Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:45:01","timestamp":"2023-10-24T21:45:01.530Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:45:22.027Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:45:25","timestamp":"2023-10-24T21:45:25.237Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:46:01.345Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:46:03","timestamp":"2023-10-24T21:46:03.413Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:47:33.335Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:47:46","timestamp":"2023-10-24T21:47:46.200Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:50:19.885Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:50:23","timestamp":"2023-10-24T21:50:23.372Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:50:55.277Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:51:29.662Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:51:35","timestamp":"2023-10-24T21:51:35.336Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:52:15.879Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:52:31.152Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:52:39.646Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:52:40","timestamp":"2023-10-24T21:52:40.968Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:53:16.441Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 18:53:18","timestamp":"2023-10-24T21:53:18.485Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:54:45.835Z"}
+{"level":"fatal","message":"GET on /api/current/register - 18:55:03","timestamp":"2023-10-24T21:55:03.990Z"}
+{"level":"fatal","message":"POST on /api/current/register - 18:55:14","timestamp":"2023-10-24T21:55:14.793Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:55:15","timestamp":"2023-10-24T21:55:15.018Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 18:55:26","timestamp":"2023-10-24T21:55:26.042Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:55:28","timestamp":"2023-10-24T21:55:28.964Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-24T21:55:28.965Z"}
+{"level":"info","message":"fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546","timestamp":"2023-10-24T21:55:29.012Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698188129012,"resetPassToken":"fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546","role":"user","timestamp":"2023-10-24T21:55:29.068Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 18:55:46","timestamp":"2023-10-24T21:55:46.944Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:57:10.632Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:57:12.521Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T21:57:14.180Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 18:57:15","timestamp":"2023-10-24T21:57:15.688Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:00:33.045Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:00:35","timestamp":"2023-10-24T22:00:35.221Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:00:53.747Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:01:34.460Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:01:36","timestamp":"2023-10-24T22:01:36.201Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:04:09.297Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:04:11","timestamp":"2023-10-24T22:04:11.715Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:05:37.797Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:05:39","timestamp":"2023-10-24T22:05:39.570Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:06:47.679Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:06:51","timestamp":"2023-10-24T22:06:51.057Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:07:07.180Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:07:07","timestamp":"2023-10-24T22:07:07.876Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:09:14.122Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:09:14","timestamp":"2023-10-24T22:09:14.956Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:12:02.211Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:12:02","timestamp":"2023-10-24T22:12:02.947Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:12:12.776Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:14:58.997Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:15:00","timestamp":"2023-10-24T22:15:00.503Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:15:22.214Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:16:05","timestamp":"2023-10-24T22:16:05.160Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:16:23.988Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:18:55.617Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:18:58","timestamp":"2023-10-24T22:18:58.881Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:19:12.990Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:19:14","timestamp":"2023-10-24T22:19:14.506Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:21:28.484Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:21:29","timestamp":"2023-10-24T22:21:29.936Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:21:29.996Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:22:26.722Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:22:28","timestamp":"2023-10-24T22:22:28.262Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:22:28.322Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:28:02","timestamp":"2023-10-24T22:28:02.980Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:28:03.032Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:28:49.237Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:28:50","timestamp":"2023-10-24T22:28:50.527Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:28:50.584Z"}
+{"level":"info","message":"ResetToken:","timestamp":"2023-10-24T22:28:50.584Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:29:22.301Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:29:23","timestamp":"2023-10-24T22:29:23.309Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:29:23.364Z"}
+{"level":"info","message":"ResetToken:","timestamp":"2023-10-24T22:29:23.364Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"user:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":"2023-10-24T22:55:29.012Z","resetPassToken":"fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546","role":"user","timestamp":"2023-10-24T22:29:23.365Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:29:40.270Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:29:42","timestamp":"2023-10-24T22:29:42.819Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:29:42.876Z"}
+{"level":"info","message":"ResetToken:","timestamp":"2023-10-24T22:29:42.876Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:31:34.098Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:31:35","timestamp":"2023-10-24T22:31:35.642Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:31:35.697Z"}
+{"level":"info","message":"ResetToken:","timestamp":"2023-10-24T22:31:35.698Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:32:18.161Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:32:19","timestamp":"2023-10-24T22:32:19.873Z"}
+{"level":"info","message":"Renderizando la vista 'reset-pass'","timestamp":"2023-10-24T22:32:19.925Z"}
+{"level":"info","message":"ResetToken:","timestamp":"2023-10-24T22:32:19.926Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:32:35.359Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:33:38.531Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:33:40","timestamp":"2023-10-24T22:33:40.157Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-24T22:33:40.160Z"}
+{"level":"info","message":"ResetToken 2:","timestamp":"2023-10-24T22:33:40.209Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-24T22:34:06.099Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/fd3ca49a46ad1c1464af4c3a01f567d932fdf0e7d52d86d32e47c5adc9e32546 - 19:34:06","timestamp":"2023-10-24T22:34:06.719Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-24T22:34:06.723Z"}
+{"level":"info","message":"ResetToken 2:","timestamp":"2023-10-24T22:34:07.046Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:26:18.090Z"}
+{"level":"fatal","message":"GET on / - 17:26:35","timestamp":"2023-10-25T20:26:35.805Z"}
+{"level":"fatal","message":"GET on /favicon.ico - 17:26:36","timestamp":"2023-10-25T20:26:36.093Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:26:47","timestamp":"2023-10-25T20:26:47.365Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 17:27:17","timestamp":"2023-10-25T20:27:17.325Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T20:27:17.326Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 17:27:32","timestamp":"2023-10-25T20:27:32.783Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T20:27:32.784Z"}
+{"level":"info","message":"cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415","timestamp":"2023-10-25T20:27:32.828Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698269252827,"resetPassToken":"cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415","role":"user","timestamp":"2023-10-25T20:27:32.880Z"}
+{"level":"fatal","message":"GET on / - 17:27:43","timestamp":"2023-10-25T20:27:43.854Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eccf8620137264cc082e0b316b956149e76c09a5c39d6c6a31765428d5786bb3 - 17:27:48","timestamp":"2023-10-25T20:27:48.927Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-25T20:27:48.929Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:27:57","timestamp":"2023-10-25T20:27:57.514Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-25T20:27:57.515Z"}
+{"level":"info","message":"ResetToken 2:","timestamp":"2023-10-25T20:27:57.556Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass - 17:28:53","timestamp":"2023-10-25T20:28:53.523Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/:resetToken - 17:29:01","timestamp":"2023-10-25T20:29:01.509Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-25T20:29:01.510Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:29:36.142Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:29:37","timestamp":"2023-10-25T20:29:37.674Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-25T20:29:37.678Z"}
+{"level":"info","message":"ResetToken 2:","timestamp":"2023-10-25T20:29:38.717Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:29:53.726Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:29:58","timestamp":"2023-10-25T20:29:58.022Z"}
+{"level":"info","message":"ResetToken 1:","timestamp":"2023-10-25T20:29:58.026Z"}
+{"level":"info","message":"ResetToken 2:","timestamp":"2023-10-25T20:29:58.075Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:30:52.000Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:31:27.048Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:31:28","timestamp":"2023-10-25T20:31:28.979Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:35:42.457Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:36:09","timestamp":"2023-10-25T20:36:09.649Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:37:18.763Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:37:23","timestamp":"2023-10-25T20:37:23.282Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:41:46","timestamp":"2023-10-25T20:41:46.705Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T20:56:13.191Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 17:56:19","timestamp":"2023-10-25T20:56:19.744Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/tokenTest - 18:00:40","timestamp":"2023-10-25T21:00:40.585Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:04:28.387Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:04:37","timestamp":"2023-10-25T21:04:37.378Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T21:04:37.381Z"}
+{"level":"info","message":"27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0","timestamp":"2023-10-25T21:04:37.432Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698271477432,"resetPassToken":"27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0","role":"user","timestamp":"2023-10-25T21:04:37.491Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 18:04:59","timestamp":"2023-10-25T21:04:59.184Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:05:08","timestamp":"2023-10-25T21:05:08.435Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:05:13","timestamp":"2023-10-25T21:05:13.119Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:05:13","timestamp":"2023-10-25T21:05:13.227Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/cfb71947dc43193a43c56858208c8cb4fe261cc9127e597ec59944d398f5c415 - 18:06:38","timestamp":"2023-10-25T21:06:38.448Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:06:44","timestamp":"2023-10-25T21:06:44.280Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:07:49.465Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:07:50","timestamp":"2023-10-25T21:07:50.628Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:08:41.047Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:08:45","timestamp":"2023-10-25T21:08:45.428Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:09:39.412Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:09:40","timestamp":"2023-10-25T21:09:40.853Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:09:49","timestamp":"2023-10-25T21:09:49.061Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:09:59.715Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:10:00","timestamp":"2023-10-25T21:10:00.485Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:10:02","timestamp":"2023-10-25T21:10:02.546Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:10:20.450Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:11:06.011Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:11:08","timestamp":"2023-10-25T21:11:08.191Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:11:32.858Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/1 - 18:11:39","timestamp":"2023-10-25T21:11:39.412Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/1 - 18:12:39","timestamp":"2023-10-25T21:12:39.714Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:14:08.833Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/1 - 18:14:10","timestamp":"2023-10-25T21:14:10.360Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:14:32.231Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/1 - 18:14:33","timestamp":"2023-10-25T21:14:33.867Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:15:07.892Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/1 - 18:15:09","timestamp":"2023-10-25T21:15:09.895Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:15:19.510Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:15:22","timestamp":"2023-10-25T21:15:22.390Z"}
+{"level":"fatal","message":"POST on /reset-pass - 18:15:41","timestamp":"2023-10-25T21:15:41.031Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:16:02","timestamp":"2023-10-25T21:16:02.799Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:16:09","timestamp":"2023-10-25T21:16:09.919Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User por getUserToken:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":"2023-10-25T22:04:37.432Z","resetPassToken":"27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0","role":"user","timestamp":"2023-10-25T21:16:09.969Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 18:16:14","timestamp":"2023-10-25T21:16:14.541Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:16:14","timestamp":"2023-10-25T21:16:14.549Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:16:18","timestamp":"2023-10-25T21:16:18.968Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:16:19","timestamp":"2023-10-25T21:16:19.076Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 18:16:38","timestamp":"2023-10-25T21:16:38.877Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:16:38","timestamp":"2023-10-25T21:16:38.882Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:16:43","timestamp":"2023-10-25T21:16:43.290Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-25T21:16:43.392Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:17:09.646Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:17:57.770Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:18:05.088Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:18:14","timestamp":"2023-10-25T21:18:14.573Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T21:18:14.577Z"}
+{"level":"info","message":"383240eb445ec4065c8f6215ac10fdea1b794f24464b81574916eccc14564b7a","timestamp":"2023-10-25T21:18:14.630Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698268704630,"resetPassToken":"383240eb445ec4065c8f6215ac10fdea1b794f24464b81574916eccc14564b7a","role":"user","timestamp":"2023-10-25T21:18:14.689Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 18:18:24","timestamp":"2023-10-25T21:18:24.308Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:18:31","timestamp":"2023-10-25T21:18:31.430Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 18:18:44","timestamp":"2023-10-25T21:18:44.058Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/383240eb445ec4065c8f6215ac10fdea1b794f24464b81574916eccc14564b7a - 18:19:13","timestamp":"2023-10-25T21:19:13.587Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:19:46.885Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:19:59.337Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:20:06","timestamp":"2023-10-25T21:20:06.959Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T21:20:06.963Z"}
+{"level":"info","message":"3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a","timestamp":"2023-10-25T21:20:07.010Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698268837010,"resetPassToken":"3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a","role":"user","timestamp":"2023-10-25T21:20:07.066Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/383240eb445ec4065c8f6215ac10fdea1b794f24464b81574916eccc14564b7a - 18:20:09","timestamp":"2023-10-25T21:20:09.030Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:20:22","timestamp":"2023-10-25T21:20:22.731Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:20:25","timestamp":"2023-10-25T21:20:25.089Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:20:29","timestamp":"2023-10-25T21:20:29.273Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:20:33","timestamp":"2023-10-25T21:20:33.988Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:20:42","timestamp":"2023-10-25T21:20:42.024Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:20:47","timestamp":"2023-10-25T21:20:47.774Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:21:10.601Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:21:11","timestamp":"2023-10-25T21:21:11.467Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:21:13","timestamp":"2023-10-25T21:21:13.033Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:21:37.016Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:21:39","timestamp":"2023-10-25T21:21:39.175Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:21:41","timestamp":"2023-10-25T21:21:41.082Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:22:11","timestamp":"2023-10-25T21:22:11.120Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:26:37","timestamp":"2023-10-25T21:26:37.147Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:27:43","timestamp":"2023-10-25T21:27:43.135Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:28:24.295Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:31:16.320Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/3b98bd1a716769e248b599fe0a5f30b729f45aef958217abf2add851e1c4550a - 18:31:18","timestamp":"2023-10-25T21:31:18.720Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:31:42","timestamp":"2023-10-25T21:31:42.610Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T21:31:42.612Z"}
+{"level":"info","message":"36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc","timestamp":"2023-10-25T21:31:42.659Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698269532658,"resetPassToken":"36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc","role":"user","timestamp":"2023-10-25T21:31:42.713Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:31:53","timestamp":"2023-10-25T21:31:53.321Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:31:57","timestamp":"2023-10-25T21:31:57.984Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:32:00","timestamp":"2023-10-25T21:32:00.068Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:32:02","timestamp":"2023-10-25T21:32:02.191Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:32:05","timestamp":"2023-10-25T21:32:05.137Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:32:08","timestamp":"2023-10-25T21:32:08.443Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:32:14","timestamp":"2023-10-25T21:32:14.164Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:32:51.181Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/36079db2ae2dc689dc98eaffb8ea0aafdb3a579ff4419371606fabed0ba1aecc - 18:32:52","timestamp":"2023-10-25T21:32:52.785Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:32:59","timestamp":"2023-10-25T21:32:59.720Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T21:32:59.722Z"}
+{"level":"info","message":"eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b","timestamp":"2023-10-25T21:32:59.773Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$qlntRXngcueLjftdElXqt.pYkB5LXXyUIQb0OiVAURMXIE.t7OUVK","resetPassExpiry":1698272579773,"resetPassToken":"eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b","role":"user","timestamp":"2023-10-25T21:32:59.833Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b - 18:33:08","timestamp":"2023-10-25T21:33:08.967Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:33:19","timestamp":"2023-10-25T21:33:19.955Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:33:40","timestamp":"2023-10-25T21:33:40.081Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:33:45","timestamp":"2023-10-25T21:33:45.269Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-25T21:33:45.372Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b - 18:34:03","timestamp":"2023-10-25T21:34:03.053Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:34:35.165Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:34:40","timestamp":"2023-10-25T21:34:40.561Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:35:41.908Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b - 18:35:45","timestamp":"2023-10-25T21:35:45.780Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:35:49","timestamp":"2023-10-25T21:35:49.547Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:35:57","timestamp":"2023-10-25T21:35:57.340Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-25T21:35:57.443Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:37:23.334Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b - 18:37:27","timestamp":"2023-10-25T21:37:27.623Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:37:32","timestamp":"2023-10-25T21:37:32.556Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:38:54.990Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:40:02.458Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:40:06","timestamp":"2023-10-25T21:40:06.621Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b - 18:40:11","timestamp":"2023-10-25T21:40:11.674Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:40:15","timestamp":"2023-10-25T21:40:15.970Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:40:19","timestamp":"2023-10-25T21:40:19.698Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-25T21:40:19.742Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:40:24","timestamp":"2023-10-25T21:40:24.330Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-25T21:40:24.374Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:41:38","timestamp":"2023-10-25T21:41:38.076Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-25T21:41:38.123Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T21:50:34.155Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 18:50:40","timestamp":"2023-10-25T21:50:40.653Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T21:50:40.656Z"}
+{"level":"info","message":"e459e1b551bf4215bd4652ade3a6c309c95d2eb64adfa0654bd23a2631d80516","timestamp":"2023-10-25T21:50:40.704Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"12345","resetPassExpiry":1698273640704,"resetPassToken":"e459e1b551bf4215bd4652ade3a6c309c95d2eb64adfa0654bd23a2631d80516","role":"user","timestamp":"2023-10-25T21:50:40.760Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/eac49f0b26f1ab48a5a42175475c27e932422c2bd781209d528e44165e53031b - 18:50:49","timestamp":"2023-10-25T21:50:49.449Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e459e1b551bf4215bd4652ade3a6c309c95d2eb64adfa0654bd23a2631d80516 - 18:50:53","timestamp":"2023-10-25T21:50:53.539Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 18:50:58","timestamp":"2023-10-25T21:50:58.842Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:51:15","timestamp":"2023-10-25T21:51:15.346Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:51:15","timestamp":"2023-10-25T21:51:15.452Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 19:02:55","timestamp":"2023-10-25T22:02:55.990Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:04:23.414Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 19:04:31","timestamp":"2023-10-25T22:04:31.288Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T22:04:31.293Z"}
+{"level":"info","message":"5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2","timestamp":"2023-10-25T22:04:31.345Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$f2Hmy0uer6E4iXsaIg9o6eRc7EMw0xtkhv5j5TypZjev2hEDWJuzu","resetPassExpiry":1698274471344,"resetPassToken":"5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2","role":"user","timestamp":"2023-10-25T22:04:31.404Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 19:04:51","timestamp":"2023-10-25T22:04:51.186Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:04:51","timestamp":"2023-10-25T22:04:51.193Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/e459e1b551bf4215bd4652ade3a6c309c95d2eb64adfa0654bd23a2631d80516 - 19:04:58","timestamp":"2023-10-25T22:04:58.046Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2 - 19:05:06","timestamp":"2023-10-25T22:05:06.402Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:05:09","timestamp":"2023-10-25T22:05:09.295Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:05:22","timestamp":"2023-10-25T22:05:22.665Z"}
+{"level":"fatal","message":"POST on /api/current/login - 19:05:26","timestamp":"2023-10-25T22:05:26.271Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 19:05:26","timestamp":"2023-10-25T22:05:26.378Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2 - 19:05:44","timestamp":"2023-10-25T22:05:44.407Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:05:47","timestamp":"2023-10-25T22:05:47.125Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 19:05:52","timestamp":"2023-10-25T22:05:52.226Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:05:52","timestamp":"2023-10-25T22:05:52.231Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2 - 19:05:58","timestamp":"2023-10-25T22:05:58.614Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:06:19.403Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2 - 19:06:20","timestamp":"2023-10-25T22:06:20.461Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:06:23","timestamp":"2023-10-25T22:06:23.196Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2 - 19:06:28","timestamp":"2023-10-25T22:06:29.000Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:06:53.747Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:06:57","timestamp":"2023-10-25T22:06:57.946Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:07:16","timestamp":"2023-10-25T22:07:16.385Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/5f10cf6f931c4e9bb712b977db58650b5020cbe5f3d84ef9a12f312fc22208f2 - 19:07:19","timestamp":"2023-10-25T22:07:19.390Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 19:07:46","timestamp":"2023-10-25T22:07:46.293Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-25T22:07:46.294Z"}
+{"level":"info","message":"b0b72066839672166eccd9b906aff4dc9b0cb9ccb523545c505cefb5f1113422","timestamp":"2023-10-25T22:07:46.344Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$zd2/4S6DVKvGQlNNulMHxuMJoZWn0mPoWF1Jmo04nwrIAFu2ASn8i","resetPassExpiry":1698274666343,"resetPassToken":"b0b72066839672166eccd9b906aff4dc9b0cb9ccb523545c505cefb5f1113422","role":"user","timestamp":"2023-10-25T22:07:46.395Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/b0b72066839672166eccd9b906aff4dc9b0cb9ccb523545c505cefb5f1113422 - 19:07:59","timestamp":"2023-10-25T22:07:59.543Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:08:09.052Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:08:11","timestamp":"2023-10-25T22:08:11.332Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:08:31.141Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:08:43.165Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:08:49","timestamp":"2023-10-25T22:08:49.265Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-25T22:09:07.537Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/b0b72066839672166eccd9b906aff4dc9b0cb9ccb523545c505cefb5f1113422 - 19:09:12","timestamp":"2023-10-25T22:09:12.031Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 19:09:14","timestamp":"2023-10-25T22:09:14.258Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:16:52.278Z"}
+{"level":"fatal","message":"GET on / - 17:16:55","timestamp":"2023-10-26T20:16:55.731Z"}
+{"level":"fatal","message":"GET on /favicon.ico - 17:16:55","timestamp":"2023-10-26T20:16:55.895Z"}
+{"level":"fatal","message":"GET on /api/products - 17:17:09","timestamp":"2023-10-26T20:17:09.064Z"}
+{"level":"fatal","message":"GET on /api/carts/user - 17:17:12","timestamp":"2023-10-26T20:17:12.042Z"}
+{"level":"fatal","message":"GET on /api/current/login - 17:17:19","timestamp":"2023-10-26T20:17:19.801Z"}
+{"level":"fatal","message":"POST on /api/current/login - 17:17:23","timestamp":"2023-10-26T20:17:23.949Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:17:24","timestamp":"2023-10-26T20:17:24.062Z"}
+{"level":"fatal","message":"GET on /api/products - 17:17:28","timestamp":"2023-10-26T20:17:28.445Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:17:38","timestamp":"2023-10-26T20:17:38.587Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:18:26.228Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 17:18:30","timestamp":"2023-10-26T20:18:30.191Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-26T20:18:30.196Z"}
+{"level":"info","message":"9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245","timestamp":"2023-10-26T20:18:30.249Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$zd2/4S6DVKvGQlNNulMHxuMJoZWn0mPoWF1Jmo04nwrIAFu2ASn8i","resetPassExpiry":1698354510249,"resetPassToken":"9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245","role":"user","timestamp":"2023-10-26T20:18:30.310Z"}
+{"level":"fatal","message":"GET on /api/products - 17:18:39","timestamp":"2023-10-26T20:18:39.905Z"}
+{"level":"fatal","message":"GET on /resetPass/forgot-pass - 17:18:43","timestamp":"2023-10-26T20:18:43.920Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/27658fd0a3f2c76130f6039757380c264d730bf249624e47fb30dcee3e166ab0 - 17:18:46","timestamp":"2023-10-26T20:18:46.216Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:18:49","timestamp":"2023-10-26T20:18:49.402Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:19:02","timestamp":"2023-10-26T20:19:02.402Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:19:21.111Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:19:25","timestamp":"2023-10-26T20:19:25.848Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:19:31","timestamp":"2023-10-26T20:19:31.277Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:20:23.526Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:20:25","timestamp":"2023-10-26T20:20:25.666Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:20:28","timestamp":"2023-10-26T20:20:28.178Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:20:45.643Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:20:48","timestamp":"2023-10-26T20:20:48.347Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:20:51","timestamp":"2023-10-26T20:20:51.658Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:21:20.260Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:21:23","timestamp":"2023-10-26T20:21:23.022Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:21:26","timestamp":"2023-10-26T20:21:26.014Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:21:42.503Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:21:45","timestamp":"2023-10-26T20:21:45.270Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:21:47","timestamp":"2023-10-26T20:21:47.806Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:25:13.324Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/9cd4d4b64ee08c2c93dfc4e85d6b0b5fdd1b06e06da375585165e2fa8f335245 - 17:25:18","timestamp":"2023-10-26T20:25:18.946Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:25:22","timestamp":"2023-10-26T20:25:22.928Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:31:25.652Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:33:57.811Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:34:04.224Z"}
+{"level":"fatal","message":"POST on /resetPass/forgot-pass - 17:34:08","timestamp":"2023-10-26T20:34:08.267Z"}
+{"level":"info","message":"email:","timestamp":"2023-10-26T20:34:08.274Z"}
+{"level":"info","message":"b85a00af5c4797f6f8feb6eab508e990732f5c3f424ecf52b529d46abbd06fe1","timestamp":"2023-10-26T20:34:08.332Z"}
+{"__v":0,"_id":"65383d42109b308e238e1ed9","age":27,"cart":"65383d42109b308e238e1eda","email":"martin_gomez_1996@hotmail.com","first_name":"Martin","last_name":"Gomez","level":"info","message":"User:","password":"$2b$10$31LSXfq34TLmI/EqmvRTyeZrr6YjcQhjj55pPfkrvIpnkUAIWYZem","resetPassExpiry":1698355448332,"resetPassToken":"b85a00af5c4797f6f8feb6eab508e990732f5c3f424ecf52b529d46abbd06fe1","role":"user","timestamp":"2023-10-26T20:34:08.392Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/b85a00af5c4797f6f8feb6eab508e990732f5c3f424ecf52b529d46abbd06fe1 - 17:34:19","timestamp":"2023-10-26T20:34:19.380Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:34:23","timestamp":"2023-10-26T20:34:23.805Z"}
+{"level":"info","message":"Las contraseñas son iguales","timestamp":"2023-10-26T20:34:23.910Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:39:27.221Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:40:34.628Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:41:48.994Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:43:28.727Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:43:30.486Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:46:02.427Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:48:12.443Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:48:13.915Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:49:04.986Z"}
+{"level":"fatal","message":"GET on /resetPass/reset-pass/b85a00af5c4797f6f8feb6eab508e990732f5c3f424ecf52b529d46abbd06fe1 - 17:53:41","timestamp":"2023-10-26T20:53:41.425Z"}
+{"level":"fatal","message":"POST on /resetPass/reset-pass - 17:53:44","timestamp":"2023-10-26T20:53:44.263Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:54:00","timestamp":"2023-10-26T20:54:00.306Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:54:27.450Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:54:30","timestamp":"2023-10-26T20:54:30.109Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T20:54:39.160Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:54:40","timestamp":"2023-10-26T20:54:40.502Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 17:57:37","timestamp":"2023-10-26T20:57:37.830Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:01:17.543Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:02:51.367Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:04:11.671Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:05:20.651Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:06:31.571Z"}
+{"level":"fatal","message":"GET on /? - 18:06:36","timestamp":"2023-10-26T21:06:36.941Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:06:53.478Z"}
+{"level":"fatal","message":"GET on /? - 18:07:43","timestamp":"2023-10-26T21:07:43.590Z"}
+{"level":"fatal","message":"GET on /api/current/changeRole? - 18:07:45","timestamp":"2023-10-26T21:07:45.549Z"}
+{"level":"fatal","message":"GET on /api/current/changeRole? - 18:24:21","timestamp":"2023-10-26T21:24:21.543Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:24:53.126Z"}
+{"level":"fatal","message":"GET on /api/current/changeRole? - 18:24:55","timestamp":"2023-10-26T21:24:55.377Z"}
+{"level":"fatal","message":"GET on /api/current/changeRole - 18:25:11","timestamp":"2023-10-26T21:25:11.846Z"}
+{"level":"fatal","message":"GET on /? - 18:26:42","timestamp":"2023-10-26T21:26:42.519Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:26:44","timestamp":"2023-10-26T21:26:44.166Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:27:26.708Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:27:37","timestamp":"2023-10-26T21:27:37.863Z"}
+{"level":"fatal","message":"POST on /changeRole - 18:27:42","timestamp":"2023-10-26T21:27:42.626Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:28:02","timestamp":"2023-10-26T21:28:02.491Z"}
+{"level":"fatal","message":"POST on /premium - 18:28:08","timestamp":"2023-10-26T21:28:08.131Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:28:21","timestamp":"2023-10-26T21:28:21.311Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:28:23","timestamp":"2023-10-26T21:28:23.863Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:29:53.660Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:29:56","timestamp":"2023-10-26T21:29:56.982Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:29:59","timestamp":"2023-10-26T21:29:59.858Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:31:06.752Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:31:10","timestamp":"2023-10-26T21:31:10.235Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:31:13","timestamp":"2023-10-26T21:31:13.644Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:32:49.573Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:32:51","timestamp":"2023-10-26T21:32:51.365Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:32:54","timestamp":"2023-10-26T21:32:54.755Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:33:29.550Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:33:40.416Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:33:42","timestamp":"2023-10-26T21:33:42.549Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:33:56.185Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:33:58","timestamp":"2023-10-26T21:33:58.152Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:34:11","timestamp":"2023-10-26T21:34:11.849Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:34:33.706Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:34:34","timestamp":"2023-10-26T21:34:34.416Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:35:13.192Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:36:05.040Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:36:06","timestamp":"2023-10-26T21:36:06.484Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:36:14","timestamp":"2023-10-26T21:36:14.672Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:36:17","timestamp":"2023-10-26T21:36:17.894Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:36:27","timestamp":"2023-10-26T21:36:27.736Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:36:44","timestamp":"2023-10-26T21:36:44.653Z"}
+{"level":"fatal","message":"GET on /api/products - 18:36:53","timestamp":"2023-10-26T21:36:53.979Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:36:55","timestamp":"2023-10-26T21:36:55.278Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:37:03","timestamp":"2023-10-26T21:37:03.093Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:37:03.095Z"}
+{"level":"fatal","message":"GET on /api/products - 18:37:22","timestamp":"2023-10-26T21:37:22.940Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:37:24","timestamp":"2023-10-26T21:37:24.584Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:37:29","timestamp":"2023-10-26T21:37:29.483Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:37:33","timestamp":"2023-10-26T21:37:33.819Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:37:40","timestamp":"2023-10-26T21:37:40.085Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:37:40.087Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:38:01","timestamp":"2023-10-26T21:38:01.102Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:38:03","timestamp":"2023-10-26T21:38:03.468Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:38:08","timestamp":"2023-10-26T21:38:08.504Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:38:08.506Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:42:26.063Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:42:31","timestamp":"2023-10-26T21:42:31.323Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:42:42","timestamp":"2023-10-26T21:42:42.496Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:42:42.499Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:43:14","timestamp":"2023-10-26T21:43:14.522Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:43:21","timestamp":"2023-10-26T21:43:21.209Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:43:21.211Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:43:25","timestamp":"2023-10-26T21:43:25.557Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:45:04.489Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:45:06","timestamp":"2023-10-26T21:45:06.162Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:45:12","timestamp":"2023-10-26T21:45:12.994Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:45:12.997Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:46:28.874Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:46:31","timestamp":"2023-10-26T21:46:31.147Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:46:31.154Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:47:25.377Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:47:26","timestamp":"2023-10-26T21:47:26.581Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:47:26.590Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:47:35.939Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:47:39","timestamp":"2023-10-26T21:47:39.281Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T21:47:39.288Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 18:48:51","timestamp":"2023-10-26T21:48:51.286Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:48:51","timestamp":"2023-10-26T21:48:51.296Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:48:56","timestamp":"2023-10-26T21:48:56.536Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:48:56","timestamp":"2023-10-26T21:48:56.662Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:49:02","timestamp":"2023-10-26T21:49:02.596Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:49:09","timestamp":"2023-10-26T21:49:09.188Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:49:28.146Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:49:30","timestamp":"2023-10-26T21:49:31.002Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:49:45.893Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:50:58.492Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:51:03","timestamp":"2023-10-26T21:51:03.361Z"}
+{"level":"fatal","message":"GET on /api/products - 18:51:51","timestamp":"2023-10-26T21:51:51.288Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:52:49","timestamp":"2023-10-26T21:52:49.761Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:52:55","timestamp":"2023-10-26T21:52:55.730Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:53:34.189Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:53:45","timestamp":"2023-10-26T21:53:45.096Z"}
+{"level":"fatal","message":"GET on /api/products - 18:53:48","timestamp":"2023-10-26T21:53:48.934Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:59:11.676Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 18:59:16","timestamp":"2023-10-26T21:59:16.884Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-26T21:59:16.890Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T21:59:37.064Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 18:59:39","timestamp":"2023-10-26T21:59:39.362Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-26T21:59:39.369Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:59:49","timestamp":"2023-10-26T21:59:49.831Z"}
+{"level":"fatal","message":"GET on /api/products - 18:59:54","timestamp":"2023-10-26T21:59:54.606Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 19:00:00","timestamp":"2023-10-26T22:00:00.050Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-26T22:00:00.053Z"}
+{"level":"fatal","message":"GET on /api/products - 19:00:19","timestamp":"2023-10-26T22:00:19.249Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 19:00:23","timestamp":"2023-10-26T22:00:23.803Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-26T22:00:23.807Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:01:28.632Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 19:01:30","timestamp":"2023-10-26T22:01:30.882Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-26T22:01:30.889Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 19:01:37","timestamp":"2023-10-26T22:01:37.638Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 19:01:42","timestamp":"2023-10-26T22:01:42.366Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 19:01:58","timestamp":"2023-10-26T22:01:58.638Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 19:02:17","timestamp":"2023-10-26T22:02:17.993Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 19:02:21","timestamp":"2023-10-26T22:02:21.194Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:09:59.545Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 19:11:49","timestamp":"2023-10-26T22:11:49.994Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:11:50","timestamp":"2023-10-26T22:11:50.067Z"}
+{"level":"fatal","message":"POST on /api/current/login - 19:11:58","timestamp":"2023-10-26T22:11:58.371Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-26T22:11:58.473Z"}
+{"level":"fatal","message":"POST on /api/current/login - 19:12:01","timestamp":"2023-10-26T22:12:01.611Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 19:12:01","timestamp":"2023-10-26T22:12:01.716Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 19:12:03","timestamp":"2023-10-26T22:12:03.870Z"}
+{"level":"fatal","message":"GET on /api/products - 19:12:24","timestamp":"2023-10-26T22:12:24.622Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 19:12:29","timestamp":"2023-10-26T22:12:29.991Z"}
+{"level":"fatal","message":"GET on /api/products - 19:12:30","timestamp":"2023-10-26T22:12:30.003Z"}
+{"level":"fatal","message":"GET on /api/products - 19:12:37","timestamp":"2023-10-26T22:12:37.625Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:13:16.598Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 19:13:44","timestamp":"2023-10-26T22:13:44.544Z"}
+{"level":"fatal","message":"GET on /api/products - 19:13:44","timestamp":"2023-10-26T22:13:44.564Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:14:11.591Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adf4729ed58836e8b652e - 19:14:18","timestamp":"2023-10-26T22:14:18.029Z"}
+{"level":"fatal","message":"GET on /api/products - 19:14:18","timestamp":"2023-10-26T22:14:18.105Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:15:35.841Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:15:38","timestamp":"2023-10-26T22:15:38.960Z"}
+{"level":"fatal","message":"GET on /api/products - 19:15:49","timestamp":"2023-10-26T22:15:49.754Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:16:15.161Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:16:17","timestamp":"2023-10-26T22:16:17.255Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:16:49.208Z"}
+{"level":"fatal","message":"GET on /api/products - 19:16:52","timestamp":"2023-10-26T22:16:52.332Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:16:56","timestamp":"2023-10-26T22:16:56.627Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:17:03.234Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:17:03","timestamp":"2023-10-26T22:17:03.508Z"}
+{"level":"fatal","message":"GET on /api/products - 19:17:05","timestamp":"2023-10-26T22:17:05.241Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:17:32.587Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:17:36","timestamp":"2023-10-26T22:17:36.961Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:18:26.493Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:18:31","timestamp":"2023-10-26T22:18:31.046Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:18:57.644Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:19:04.154Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:19:07","timestamp":"2023-10-26T22:19:07.097Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:23:19.029Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:26:25.610Z"}
+{"level":"fatal","message":"GET on /api/products - 19:26:27","timestamp":"2023-10-26T22:26:27.725Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfb729ed58836e8b6532 - 19:26:29","timestamp":"2023-10-26T22:26:29.681Z"}
+{"level":"fatal","message":"GET on /api/products - 19:26:29","timestamp":"2023-10-26T22:26:29.803Z"}
+{"level":"fatal","message":"POST on /api/current/logout - 19:26:34","timestamp":"2023-10-26T22:26:34.469Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:26:34","timestamp":"2023-10-26T22:26:34.476Z"}
+{"level":"fatal","message":"GET on /api/current/register - 19:26:37","timestamp":"2023-10-26T22:26:37.003Z"}
+{"level":"fatal","message":"POST on /api/current/register - 19:26:49","timestamp":"2023-10-26T22:26:49.393Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:26:49","timestamp":"2023-10-26T22:26:49.623Z"}
+{"level":"fatal","message":"GET on /api/products - 19:26:50","timestamp":"2023-10-26T22:26:50.974Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfe978959aa854e373aa - 19:26:55","timestamp":"2023-10-26T22:26:55.448Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:27:13","timestamp":"2023-10-26T22:27:13.452Z"}
+{"level":"fatal","message":"POST on /api/current/login - 19:27:16","timestamp":"2023-10-26T22:27:16.634Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 19:27:16","timestamp":"2023-10-26T22:27:16.743Z"}
+{"level":"fatal","message":"GET on /api/products - 19:27:19","timestamp":"2023-10-26T22:27:19.158Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfe978959aa854e373aa - 19:27:21","timestamp":"2023-10-26T22:27:21.234Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-26T22:27:21.237Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 19:27:36","timestamp":"2023-10-26T22:27:36.293Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 19:27:39","timestamp":"2023-10-26T22:27:39.172Z"}
+{"level":"fatal","message":"GET on /api/current/login - 19:27:39","timestamp":"2023-10-26T22:27:39.238Z"}
+{"level":"fatal","message":"POST on /api/current/login - 19:27:43","timestamp":"2023-10-26T22:27:43.123Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 19:27:43","timestamp":"2023-10-26T22:27:43.231Z"}
+{"level":"fatal","message":"GET on /api/products - 19:27:45","timestamp":"2023-10-26T22:27:45.335Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfe978959aa854e373aa - 19:27:47","timestamp":"2023-10-26T22:27:47.080Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-26T22:28:38.114Z"}
+{"level":"fatal","message":"DELETE on /api/products/653adfe978959aa854e373aa - 19:28:46","timestamp":"2023-10-26T22:28:46.341Z"}
+{"level":"fatal","message":"GET on /api/products - 19:28:58","timestamp":"2023-10-26T22:28:58.262Z"}
+{"level":"fatal","message":"GET on /api/products/new - 19:29:06","timestamp":"2023-10-26T22:29:06.653Z"}
+{"level":"fatal","message":"POST on /api/products/new - 19:29:12","timestamp":"2023-10-26T22:29:12.681Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-26T22:29:12.684Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:06:51.791Z"}
+{"level":"fatal","message":"GET on / - 18:06:53","timestamp":"2023-10-27T21:06:53.195Z"}
+{"level":"fatal","message":"GET on /favicon.ico - 18:06:53","timestamp":"2023-10-27T21:06:53.756Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:07:16","timestamp":"2023-10-27T21:07:16.791Z"}
+{"level":"fatal","message":"GET on / - 18:07:20","timestamp":"2023-10-27T21:07:20.556Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:07:28","timestamp":"2023-10-27T21:07:28.351Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:07:32","timestamp":"2023-10-27T21:07:32.465Z"}
+{"level":"info","message":"Contraseña incorrecta","timestamp":"2023-10-27T21:07:32.575Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:07:35","timestamp":"2023-10-27T21:07:35.710Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:07:35","timestamp":"2023-10-27T21:07:35.818Z"}
+{"level":"fatal","message":"GET on /api/current/premium? - 18:07:38","timestamp":"2023-10-27T21:07:38.632Z"}
+{"level":"fatal","message":"GET on /api/products - 18:08:15","timestamp":"2023-10-27T21:08:15.577Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:08:17","timestamp":"2023-10-27T21:08:17.092Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:08:23","timestamp":"2023-10-27T21:08:23.208Z"}
+{"level":"info","message":"Usuario no tiene el rol de administrador","timestamp":"2023-10-27T21:08:23.211Z"}
+{"level":"fatal","message":"POST on /api/current/premium - 18:08:45","timestamp":"2023-10-27T21:08:45.200Z"}
+{"level":"fatal","message":"GET on /api/current/login - 18:08:45","timestamp":"2023-10-27T21:08:45.269Z"}
+{"level":"fatal","message":"POST on /api/current/login - 18:08:49","timestamp":"2023-10-27T21:08:49.272Z"}
+{"level":"fatal","message":"GET on /api/current/profile - 18:08:49","timestamp":"2023-10-27T21:08:49.376Z"}
+{"level":"fatal","message":"GET on /api/products - 18:09:58","timestamp":"2023-10-27T21:09:58.753Z"}
+{"level":"fatal","message":"GET on /api/products/new - 18:10:04","timestamp":"2023-10-27T21:10:04.039Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:10:08","timestamp":"2023-10-27T21:10:08.963Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:10:35","timestamp":"2023-10-27T21:10:35.289Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:10:44","timestamp":"2023-10-27T21:10:44.257Z"}
+{"level":"fatal","message":"POST on /api/products/new - 18:10:53","timestamp":"2023-10-27T21:10:53.454Z"}
+{"level":"fatal","message":"GET on /api/products - 18:11:07","timestamp":"2023-10-27T21:11:07.461Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c275df14f041b0b18a6bb - 18:11:12","timestamp":"2023-10-27T21:11:12.185Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:12:26.289Z"}
+{"level":"fatal","message":"GET on /api/products - 18:12:30","timestamp":"2023-10-27T21:12:30.545Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c2754f14f041b0b18a6b8 - 18:12:50","timestamp":"2023-10-27T21:12:50.494Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:15:19.979Z"}
+{"level":"fatal","message":"GET on /api/products - 18:15:22","timestamp":"2023-10-27T21:15:22.240Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c274bf14f041b0b18a6b5 - 18:15:26","timestamp":"2023-10-27T21:15:26.078Z"}
+{"level":"fatal","message":"GET on /api/products - 18:15:30","timestamp":"2023-10-27T21:15:30.564Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c274bf14f041b0b18a6b5 - 18:15:36","timestamp":"2023-10-27T21:15:36.919Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:16:25.097Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c274bf14f041b0b18a6b5 - 18:16:34","timestamp":"2023-10-27T21:16:34.948Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:19:58.209Z"}
+{"level":"fatal","message":"GET on /api/products - 18:20:00","timestamp":"2023-10-27T21:20:00.345Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c274bf14f041b0b18a6b5 - 18:20:02","timestamp":"2023-10-27T21:20:02.400Z"}
+{"level":"info","message":"Solo el usuario que creó el producto puede eliminarlo","timestamp":"2023-10-27T21:20:02.453Z"}
+{"level":"fatal","message":"GET on /api/products - 18:20:38","timestamp":"2023-10-27T21:20:38.090Z"}
+{"level":"fatal","message":"DELETE on /api/products/653c274bf14f041b0b18a6b5 - 18:20:43","timestamp":"2023-10-27T21:20:43.073Z"}
+{"level":"info","message":"El usuario no tiene el rol Premium 💎","timestamp":"2023-10-27T21:20:43.076Z"}
+{"level":"fatal","message":"GET on /api/products - 18:20:48","timestamp":"2023-10-27T21:20:48.793Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:26:20.974Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-27T21:26:23.429Z"}
+{"level":"fatal","message":"GET on /api/products - 18:26:37","timestamp":"2023-10-27T21:26:37.236Z"}
+{"level":"fatal","message":"GET on /api/products/653c274bf14f041b0b18a6b5 - 18:26:38","timestamp":"2023-10-27T21:26:38.818Z"}
+{"level":"fatal","message":"POST on /api/carts/65383d42109b308e238e1eda/product/653c274bf14f041b0b18a6b5 - 18:26:40","timestamp":"2023-10-27T21:26:40.426Z"}
+{"level":"fatal","message":"GET on /api/carts/user - 18:26:49","timestamp":"2023-10-27T21:26:49.814Z"}
+{"level":"fatal","message":"GET on /api/products/653c274bf14f041b0b18a6b5 - 18:27:51","timestamp":"2023-10-27T21:27:51.364Z"}
+{"level":"fatal","message":"POST on /api/carts/65383d42109b308e238e1eda/product/653c274bf14f041b0b18a6b5 - 18:27:53","timestamp":"2023-10-27T21:27:53.583Z"}

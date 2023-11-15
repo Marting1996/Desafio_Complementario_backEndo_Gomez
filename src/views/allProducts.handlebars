@@ -1,0 +1,64 @@
+<h2>Todos los productos</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Detalles</th>
+            <th>Borrar</th>
+        </tr>
+    </thead>
+    <tbody id="tbody">
+        {{#each products}}
+        <tr>
+            <td>{{this._id}}</td>
+            <td>{{this.title}}</td>
+            <td>{{this.description}}</td>
+            <td>{{this.price}}</td>
+            <td>
+                <button onclick="getProductDetails('{{this._id}}')" class="btn btn-primary">Detalles</button>
+            </td>
+            <td>
+                <button onclick="confirmDelete('{{this._id}}', '{{this.title}}')" class="btn btn-danger">Eliminar</button>
+            </td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+
+<script>
+    const url = '/api/products'; 
+
+    function getProductDetails(pid) {
+        console.log("Obtener detalles del producto con ID:", pid);
+        window.location.href = `/api/products/${pid}`;
+    }
+
+    function deleteProduct(pid) {
+        console.log("Eliminar producto con ID:", pid);
+        fetch(`/api/products/${pid}`, {
+            method: "DELETE"
+        })
+        .then(response => {
+            if (response.ok) {
+                console.log("Producto eliminado correctamente");
+                window.location.href = url; 
+            } else {
+                console.error("Error al eliminar el producto:", response.statusText);
+            }
+        })
+        .catch(error => {
+            console.error("Error al eliminar el producto:", error);
+        });
+    }
+
+    function confirmDelete(pid, productName) {
+        const confirmation = window.confirm(`¿Seguro que deseas eliminar "${productName}"?`);
+        if (confirmation) {
+            deleteProduct(pid);
+        }
+    }
+</script>

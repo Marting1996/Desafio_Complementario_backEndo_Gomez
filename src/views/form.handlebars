@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <title>Create Products</title>
+</head>
+<body>
+
+<div class="container mt-5">
+  <h2>Create Products</h2>
+  <a href="/products" class="btn btn-primary">Products list</a>
+
+  <form id="productForm" class="mt-4" action="/api/products/new" method="post">
+    <div class="form-group">
+      <label for="title">Title:</label>
+      <input type="text" id="title" name="title" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description:</label>
+      <input type="text" id="description" name="description" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+      <label for="code">Code:</label>
+      <input type="text" id="code" name="code" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+      <label for="price">Price:</label>
+      <input type="number" id="price" name="price" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+      <label for="stock">Stock:</label>
+      <input type="number" id="stock" name="stock" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+      <label for="category">Category:</label>
+      <input type="text" id="category" name="category" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+      <label for="thumbnail">Thumbnail:</label>
+      <input type="text" id="thumbnail" name="thumbnail" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn btn-success">Enviar</button>
+  </form>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+  document.getElementById("productForm").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    
+    const token = localStorage.getItem('token');
+    const formData = new FormData(e.target);
+    const product = {};
+    formData.forEach((value, key) => {
+        product[key] = value;
+    });
+    //console.log("Product Data:", product);
+    try {
+        const response = await fetch("/api/products/new", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${token}`,
+            },
+            body: JSON.stringify(product),
+        });
+
+        const responseData = await response.json();
+        //console.log("Response from server1:", response);
+        //console.log("Response from server2:", responseData);
+        if (response.ok) {
+            console.log("Producto agregado con éxito");
+        } else {
+            console.error("Error al agregar el producto:", responseData.message);
+        }
+    } catch (error) {
+        console.error("Error en la solicitud:", error);
+    }
+});
+
+</script>
+
+</body>
+</html>

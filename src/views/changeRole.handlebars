@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cambiar Rol</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h1>Cambiar Rol</h1>
+                {{#if success}}
+                <div class="alert alert-success">
+                    {{success}}
+                </div>
+                {{/if}}
+
+                {{#if error}}
+                <div class="alert alert-danger">
+                    {{error}}
+                </div>
+                {{/if}}
+
+                <form method="post" action="/api/current/premium">
+                    <div class="form-group">
+                        <label for="newRole">Nuevo Rol</label>
+                        <select id="newRole" name="newRole" class="form-control" required>
+                            <option value="user">Usuario</option>
+                            <option value="admin">Administrador</option>
+                            <option value="premium">Premium</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Cambiar Rol</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

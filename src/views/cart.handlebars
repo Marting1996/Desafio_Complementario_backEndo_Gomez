@@ -1,0 +1,60 @@
+<body>
+    <div class="container mt-5">
+        <h2>Cart</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#with cart}}
+                    {{#each products}}
+                        <tr>
+                            <td>{{this._id}}</td>
+                            <td>{{this.title}}</td>
+                            <td>{{this.quantity}}</td>
+                            <td>{{this.price}}</td>
+                        </tr>
+                    {{/each}}
+                {{/with}}
+            </tbody>
+            <tfoot>
+            <tr>
+                <td colspan="3"><strong>Total Price:</strong></td>
+                <td>{{cart.totalPrice}}</td>
+            </tr>
+        </tfoot>
+        </table>
+        <button id="comprarBtn" class="btn btn-primary">Comprar</button>
+    </div>
+
+    <script>
+        document.getElementById("comprarBtn").addEventListener("click", async function() {
+    try {
+        const cid = "{{user.cart}}"
+        console.log(cid)
+        const response = await fetch(`/api/carts/user/purchase`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+        });
+
+        if (response.ok) {
+            alert("Compra realizada con éxito");
+        } else {
+            const errorData = await response.json();
+            console.error(response.statusText, errorData);
+            alert("Error al realizar la compra. Consulta la consola para más detalles.");
+        }
+    } catch (error) {
+        console.error("Error inesperado:", error);
+        alert("Error inesperado. Consulta la consola para más detalles.");
+    }
+});
+    </script>
+</body>

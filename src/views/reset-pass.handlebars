@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restablecer Contraseña</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h1>Restablecer Contraseña</h1>
+
+                {{#if error}}
+                <div class="alert alert-danger">
+                    {{error}}
+                </div>
+                {{/if}}
+
+                {{#if success}}
+                <div class="alert alert-success">
+                    {{success}}
+                </div>
+                {{/if}}
+
+                {{#if resetToken}}
+                <form method="post" action="/resetPass/reset-pass">
+                    <input type="hidden" name="resetToken" value="{{resetToken}}">
+                    <div class="form-group">
+                        <label for="newPass">Nueva Contraseña</label>
+                        <input type="password" id="newPass" name="newPass" class="form-control" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Restablecer Contraseña</button>
+                </form>
+                {{else}}
+                <p>El enlace no es válido o ha expirado.</p>
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
